@@ -1,1 +1,3 @@
 This is going to be a repo to organize thoughts and goals for new Web projects
+
+work on the webpage to display some finished projects
