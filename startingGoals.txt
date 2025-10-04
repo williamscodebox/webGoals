@@ -4,4 +4,6 @@ work on the webpage to display some finished projects
 
 use icon8 icons for tech stack
 https://icons8.com/
-choose 13 skills to highlight in tech stack
+
+
+Add hero section to mobile
