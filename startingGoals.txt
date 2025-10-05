@@ -8,3 +8,6 @@ https://icons8.com/
 
 Add hero section to mobile
 work on SEO
+
+showcase some projects
+https://glidejs.com/
