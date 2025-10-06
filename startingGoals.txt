@@ -13,3 +13,7 @@ showcase some projects
 https://glidejs.com/
 
 choose minimum 3 projects to showcase
+
+make a testomonials section
+
+make a contact section
