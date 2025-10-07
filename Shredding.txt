@@ -1,0 +1,48 @@
+Project Details
+$2.00 – 8.00 CAD per hour
+
+ Bidding ends in 6 days, 23 hours
+I have a fresh WordPress install running the Ultima (Qodeinteractive) theme and WP Bakery is already in place. Nothing in the theme or its code base may be rebuilt, and no extra plugins or FTP access will be granted unless we talk first.
+
+Theme: https://ultima.qodeinteractive.com/
+Layout: https://xd.adobe.com/view/cb047a85-5816-42a1-b58a-29fbba1755f2-9e57/
+
+What I need
+• Approximately 20 separate pages created so they look pixel-perfect against the Adobe XD link I’ve supplied (match the layouts exactly, not “close enough”).
+• Each developer will receive a copy of the Excel sheet that lists every page. Please fill in your proposed cost and turnaround time for each line item; that sheet is what I will use to divide and award work.
+NOTE: For the Home page, we will require a plugin that will display a specific article, that can be managed by the admin. Just like a module, the purpose of this is to allow the admin to control content across WP MultiSites
+
+Practical details
+– Everything is done inside WP Bakery.
+– The staging site is already running; you’ll receive a WordPress login as soon as I confirm your slot.
+– No theme rebuilds, child-theme tweaks, or plugin installs without prior approval.
+– Multiple freelancers will be hired so we can deliver fast, so accuracy and clear time estimates matter.
+
+When you reply, include the project password WAFER in your first message and attach the completed spreadsheet so I can lock in your pages right away.
+Skills Required
+PHP
+WordPress
+CSS
+HTML
+Web Development
+Content Creation
+Adobe XD
+Web Design
+
+About the Client
+Toronto
+
+Flag of CANADA
+Canada
+
+How to write a winning bid
+
+Winning Bid Guide
+Your best chance of winning this project is writing a great bid proposal here!
+
+Great bids are ones that:
+Are engaging and well written without spelling or grammatical errors
+Show a clear understanding of what is required for this specific project - personalize your response!
+Explain how your skills & experience relate to the project and your approach to working on it
+Ask questions to clarify any unclear details
+Most of all - don't spam or post cut-and-paste bids. You will be penalized or banned if you do so.
