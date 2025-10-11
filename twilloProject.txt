@@ -1,0 +1,63 @@
+Looking for a full-stack developer to build a simple web app where users can receive AI-generated voice calls.
+The system should let users sign up, answer a few onboarding questions for personalization, set a preferred time, and receive automated calls with short voice messages. The app should also include subscription billing and a minimal dashboard.
+This is an MVP — the goal is simplicity, reliability, and clean code, not complex UI or chat features.
+
+⚙️ Core Features
+User Onboarding
+Name, phone number, timezone auto-detect, and preferred time.
+Ask 3–4 short questions.
+Store answers to personalize future voice content.
+AI Voice Call System
+Calls users automatically via Twilio (or similar) at their selected time.
+Plays a short voice message chosen from stored content based on their answers/mood.
+Logs each call (answered / missed / failed).
+Missed Call Handling
+If a call is missed, send a friendly SMS offering retry or reschedule.
+User Dashboard (Web)
+Clean, minimal dashboard showing past messages and status.
+Option to change time, preferences, or manage billing.
+Subscription & Billing
+Stripe integration for recurring payments.
+Users can start with a trial, then upgrade to a paid plan.
+Calls are active only with an active subscription.
+
+Preferred Tech Stack
+Frontend: Next.js + TailwindCSS
+Backend: Node.js (Express or Next.js API routes)
+Database: Supabase or Firebase
+Voice/SMS: Twilio (Programmable Voice + SMS)
+Text-to-Speech: ElevenLabs or similar (humanlike voices)
+Payments: Stripe Subscriptions
+Hosting: Siteground
+
+Core Requirements
+Must support timezone-aware scheduling.
+Reliable call delivery + detailed logging.
+SMS automation for missed calls.
+Simple personalization logic (use user responses to tag/select relevant messages).
+Stripe subscription integration with webhooks.
+Minimal, modern UI.
+
+Timeline
+Target: 2–3 weeks
+Must include testing across timezones + call retries.
+
+I Will Provide
+Message content (voice scripts).
+Twilio & Stripe accounts.
+Brand tone, voice style, and example messages.
+
+Ideal Developer
+Experienced with Twilio Voice API + Stripe.
+Has built cron / queue-based scheduling systems.
+Clean, scalable code structure.
+Communicative, fast, and detail-oriented.
+Skills Required
+PHP
+Mobile App Development
+Android
+Software Architecture
+Node.js
+Twilio
+Next.js
+ElevenLabs
